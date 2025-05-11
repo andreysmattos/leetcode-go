@@ -5,5 +5,5 @@ LeetCode is a website containing many algorithm questions. Most of them are real
 
 
 ```
-go test -v ./solutions/0002.Add-Two-Numbers/
+go test -v ./solutions/0002.Add-Two-Numbers
 ```
